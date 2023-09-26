@@ -7,6 +7,9 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/DimitarPeev87/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mctrix1987/) 
 
+## Some stats: 
+ ![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&size_weight=0&count_weight=1&show_icons=true&theme=dracula&hide_rank=true) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&size_weight=0&count_weight=1&layout=donut&hide=html,CSS&langs_count=6&theme=dracula)
 
 
 <!---
