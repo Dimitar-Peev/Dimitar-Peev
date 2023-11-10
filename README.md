@@ -16,7 +16,7 @@
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/Software_Engineer/tree/main/PF-Java-September-2023) | 0.00 | September 2023 | [Java Fundamentals certificate] |
+| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 0.00 | September 2023 | [Java Fundamentals certificate] |
 | [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 <!---
