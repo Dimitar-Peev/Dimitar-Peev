@@ -1,4 +1,4 @@
-### Hi, I’m @Dimitar-Peev 👋  
+### Hi, I’m @Dimitar-Peev 👋   ![visitors](https://komarev.com/ghpvc/?username=Dimitar-Peev)
 I started my journey in the world of technology by signing up for SoftUni's free 2-month programming basics course in the summer of 2023. Having a completely different experience, it was something completely new to me. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java.
