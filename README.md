@@ -24,6 +24,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
 | [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Code%20never%20lies,%20comments%20sometimes%20do.&author=Bill%20Gates&type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
 Dimitar-Peev/Dimitar-Peev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
