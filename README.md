@@ -11,6 +11,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Code%20never%20lies,%20comments%20sometimes%20do.&author=Ron%20Jeffries&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 ### GitHub Stats 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -25,9 +26,9 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### **************************************************************
+### *************************************************************************************
 
 <!---
 Dimitar-Peev/Dimitar-Peev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
