@@ -24,6 +24,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
 | [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&author=Bill%20Gates&type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### **********************************************************************
