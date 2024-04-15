@@ -10,6 +10,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Code%20never%20lies,%20comments%20sometimes%20do.&author=Ron%20Jeffries&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=idea,java,vscode,html,css,github&theme=light)](https://skillicons.dev)
 
 ### GitHub Stats 
