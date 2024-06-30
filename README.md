@@ -31,8 +31,6 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Is%20studying%20computer%20science%20the%20best%20way%20to%20prepare%20to%20be%20a%20programmer?%20No.%20the%20best%20way%20to%20prepare%20is%20to%20write%20programs,%20and%20to%20study%20great%20programs%20that%20other%20people%20have%20written.&border=none&author=Bill%20Gates&type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### **********************************************************************
-
 <!---
 Dimitar-Peev/Dimitar-Peev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
