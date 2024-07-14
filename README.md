@@ -29,7 +29,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 <p align="center">
- <img width="800" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 <!---
