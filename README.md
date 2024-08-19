@@ -21,7 +21,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link](https://github.com/Dimitar-Peev/06.JS-Front-End-June-2024) | 6.00 | June 2024 | [Certificate](https://softuni.bg/certificates/details/223934/8e0c248e) |
+| [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link](https://github.com/Dimitar-Peev/06.JS-Front-End-June-2024) | 6.00 | June 2024 | [JS Front-End Certificate](https://softuni.bg/certificates/details/223934/8e0c248e) |
 | [HTML & CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Dimitar-Peev/05.HTML-CSS-May-2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/certificates/details/218511/e56af7e8) |
 | [Java OOP course](https://softuni.bg/trainings/4375/java-oop-february-2024) | [Link](https://github.com/Dimitar-Peev/04.Java-OOP-February-2024) | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/certificates/details/211089/037198b7) |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Dimitar-Peev/03.Java-Advanced-January-2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203408/e80b558b) |
