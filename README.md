@@ -21,7 +21,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [Spring Data course](https://softuni.bg/trainings/4710/spring-data-october-2024) | [Link](https://github.com/Dimitar-Peev/08.SpringData-October-2024) | 0.00 | October 2024 | [Spring Data Certificate](#) |
+| [Spring Data course](https://softuni.bg/trainings/4710/spring-data-october-2024) | [Link](https://github.com/Dimitar-Peev/08.SpringData-October-2024) | 6.00 | October 2024 | [Spring Data Certificate](https://softuni.bg/certificates/details/231159/c3fc389e) |
 | [MySQL course](https://softuni.bg/trainings/4709/mysql-september-2024) | [Link](https://github.com/Dimitar-Peev/07.MySQL-September-2024) | 6.00 | September 2024 | [MySQL Certificate](https://softuni.bg/certificates/details/226130/c2753768) |
 | [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link](https://github.com/Dimitar-Peev/06.JS-Front-End-June-2024) | 6.00 | June 2024 | [JS Front-End Certificate](https://softuni.bg/certificates/details/223934/8e0c248e) |
 | [HTML & CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Dimitar-Peev/05.HTML-CSS-May-2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/certificates/details/218511/e56af7e8) |
