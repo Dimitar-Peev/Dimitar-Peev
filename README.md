@@ -19,7 +19,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 ### Certified courses
 
-| Course        | GitHub repo | Grade | Issue date | Certificate |
+| Course        | Repository  | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
 | [Spring Advanced course](https://softuni.bg/trainings/4844/spring-advanced-february-2025) | [Link](https://github.com/Dimitar-Peev/10.Spring-Advanced-February-2025) | 0.00 | February 2025 | [Spring Advanced Certificate](#) |
 | [Spring Fundamentals course](https://softuni.bg/trainings/4843/spring-fundamentals-january-2025) | [Link](https://github.com/Dimitar-Peev/09.Spring-Fundamentals-January-2025) | 0.00 | January 2025 | [Spring Fundamentals Certificate](#) |
@@ -34,7 +34,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 ### Additional courses
 
-| Course        | GitHub repo | 
+| Course        | Repository  | 
 | ------------- | ----------- | 
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
 
