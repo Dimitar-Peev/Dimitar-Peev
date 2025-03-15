@@ -34,8 +34,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 ### Additional courses
 
-| Course        | GitHub repo | Grade | Issue date | Certificate |
-| ------------- | ----------- | ----- | ---------- | ----------- |
+| Course        | GitHub repo | 
+| ------------- | ----------- | 
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
 
 
