@@ -29,14 +29,15 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [HTML & CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Dimitar-Peev/05.HTML-CSS-May-2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/certificates/details/218511/e56af7e8) |
 | [Java OOP course](https://softuni.bg/trainings/4375/java-oop-february-2024) | [Link](https://github.com/Dimitar-Peev/04.Java-OOP-February-2024) | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/certificates/details/211089/037198b7) |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Dimitar-Peev/03.Java-Advanced-January-2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203408/e80b558b) |
-| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
-| [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
+| [Programming Fundamentals with Java](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
+| [Programming Basics with Java](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 ### Additional courses
 
 | Course        | Repository  | 
 | ------------- | ----------- | 
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
+| [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
 
 
 <p align="center">
