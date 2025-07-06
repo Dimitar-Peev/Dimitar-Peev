@@ -1,6 +1,6 @@
-### Hi, I’m @Dimitar-Peev 👋   ![visitors](https://komarev.com/ghpvc/?username=Dimitar-Peev)
+ ![visitors](https://komarev.com/ghpvc/?username=Dimitar-Peev)
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=6000&pause=1000&color=1A77F2&center=true&vCenter=true&width=1000&height=50&lines=Greetings+%F0%9F%91%8B+I'm+Dimitar+Peev%21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=6000&pause=1000&color=1A77F2&center=true&vCenter=true&width=1000&height=50&lines=Hello+%F0%9F%91%8B+I'm+Dimitar+Peev%21">
   </a>
 I started my journey in the world of technology by signing up for SoftUni's free 2-month programming basics course in the summer of 2023. Having a completely different experience, it was something completely new to me. 
  - 🔍 I spend most of my free time reading on the internet for knowledge enrichment. <br />
