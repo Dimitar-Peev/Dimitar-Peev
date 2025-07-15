@@ -43,6 +43,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | ------------- | ----------- | 
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
 | [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
+| [Programming Basics with C++](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
 
 
 <p align="center">
