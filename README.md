@@ -18,14 +18,6 @@ I started my journey in the world of technology by signing up for SoftUni's free
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,cpp&theme=light)](https://skillicons.dev)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&show_icons=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dimitar-Peev&theme=default)
-
-
-
 ### Certified courses
 
 | Course        | Repository  | Grade | Issue date | Certificate |
