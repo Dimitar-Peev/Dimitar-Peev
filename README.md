@@ -20,6 +20,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 ### GitHub Stats 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&layout=compact&hide_border=true" /></a> |
+![GitHub Stats Card](https://github-readme-stats-fast.vercel.app/api?username=Dimitar-Peev&show_icons=true&theme=dark)
+
 | ------------- | ------------- |
 
 ### Certified courses
