@@ -22,7 +22,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 | Course        | Repository  | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [Spring Advanced](https://softuni.bg/trainings/4844/spring-advanced-february-2025) | [Link](https://github.com/Dimitar-Peev/10.Spring-Advanced-February-2025) | 0.00 | February 2025 | [Spring Advanced Certificate](#) |
+| [Spring Advanced](https://softuni.bg/trainings/4844/spring-advanced-february-2025) | [Link](https://github.com/Dimitar-Peev/10.Spring-Advanced-February-2025) | 6.00 | February 2025 | [Spring Advanced Certificate](https://softuni.bg/certificates/details/255006/9efc680f) |
 | [Spring Fundamentals](https://softuni.bg/trainings/4843/spring-fundamentals-january-2025) | [Link](https://github.com/Dimitar-Peev/09.Spring-Fundamentals-January-2025) | 6.00 | January 2025 | [Spring Fundamentals Certificate](https://softuni.bg/certificates/details/237642/c5e6e840) |
 | [Spring Data](https://softuni.bg/trainings/4710/spring-data-october-2024) | [Link](https://github.com/Dimitar-Peev/08.SpringData-October-2024) | 6.00 | October 2024 | [Spring Data Certificate](https://softuni.bg/certificates/details/231159/c3fc389e) |
 | [MySQL](https://softuni.bg/trainings/4709/mysql-september-2024) | [Link](https://github.com/Dimitar-Peev/07.MySQL-September-2024) | 6.00 | September 2024 | [MySQL Certificate](https://softuni.bg/certificates/details/226130/c2753768) |
