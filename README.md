@@ -15,6 +15,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dimitar-Peev)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://leetcode-stats.vercel.app/api?username=Dimitar-Peev&theme=Dark" alt="Dimitar-Peev Leetcode"/></p><br>
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=idea,java,regex,github,mysql,maven,gradle,hibernate,spring,postman&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&theme=light)](https://skillicons.dev)<br>
