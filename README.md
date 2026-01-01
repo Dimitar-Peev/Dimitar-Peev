@@ -14,6 +14,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Code%20never%20lies,%20comments%20sometimes%20do.&author=Ron%20Jeffries&type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dimitar-Peev)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev)
+
 
 <p><img align="center" src="https://leetcode-stats.vercel.app/api?username=Dimitar-Peev&theme=Dark" alt="Dimitar-Peev Leetcode"/></p><br>
 
