@@ -15,9 +15,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dimitar-Peev)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev)
-
-<script src="https://piotrl.github.io/github-profile-card/dist/gh-profile-card.min.js"></script>
-<div id="github-card" data-username="Dimitar-Peev"></div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://leetcode-stats.vercel.app/api?username=Dimitar-Peev&theme=Dark" alt="Dimitar-Peev Leetcode"/></p><br>
 
