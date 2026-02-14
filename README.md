@@ -19,7 +19,8 @@ I started my journey in the world of technology by signing up for SoftUni's free
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=idea,java,regex,github,mysql,maven,gradle,hibernate,spring,postman&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&theme=light)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,cpp&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,docker&theme=light)](https://skillicons.dev)<br>
 
 ### Certified courses
 
