@@ -20,7 +20,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 [![My Skills](https://skillicons.dev/icons?i=idea,java,regex,github,mysql,maven,gradle,hibernate,spring,postman&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,cpp&theme=light)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,docker&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,jenkins,docker&theme=light)](https://skillicons.dev)<br>
 
 ### Certified courses
 
@@ -44,6 +44,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
 | [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
 | [Programming Basics with C++](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
+| [Software Engineering and DevOps](#) | [Link](#) |
 
 
 <p align="center">
