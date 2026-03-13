@@ -15,9 +15,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dimitar-Peev&tdate_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar-Peev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&layout=donut&langs_count=7)](https://github.com/Nedev-Miroslav/github-readme-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar-Peev&layout=compact&langs_count=10)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=idea,java,regex,github,mysql,maven,gradle,hibernate,spring,postman&theme=light)](https://skillicons.dev)<br>
