@@ -22,7 +22,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,cpp&theme=light)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,jenkins&theme=light)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=linux,docker&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,azure,terraform&theme=light)](https://skillicons.dev)<br>
 
 ### Certified courses
 
