@@ -43,11 +43,16 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 | Course        | Repository  | 
 | ------------- | ----------- | 
-| [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
-| [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
-| [Programming Basics with C++](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
-| [Software Engineering and DevOps](#) | [Link](#) |
+| [TypeScript ](https://softuni.bg/trainings/5211/typescript-february-2026) | [Link](https://github.com/Dimitar-Peev/TypeScript-February-2026) |
 | [Containers and Cloud](https://softuni.bg/trainings/5150/containers-and-cloud-february-2026) | [Link](https://github.com/Dimitar-Peev/Containers-and-Cloud) |
+| [Software Engineering and DevOps](#) | [Link](#) |
+| [Programming Basics with C++](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
+| [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
+| [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
+
+
+
+
 
 
 <p align="center">
