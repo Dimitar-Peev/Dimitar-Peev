@@ -47,7 +47,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 | [TypeScript ](https://softuni.bg/trainings/5211/typescript-february-2026) | [Link](https://github.com/Dimitar-Peev/TypeScript-February-2026) |
 | [Containers and Cloud](https://softuni.bg/trainings/5150/containers-and-cloud-february-2026) | [Link](https://github.com/Dimitar-Peev/Containers-and-Cloud) |
 | [Software Engineering and DevOps](https://softuni.bg/trainings/5212/software-engineering-and-devops-january-2026) | [Link](#) |
-| [Programming Basics with C++](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
+| [Programming Basics with C++](https://softuni.bg/trainings/4647/programming-basics-with-cpp-september-2024) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Plus-Plus) | 
 | [Programming Basics with C#](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-C-Sharp) | 
 | [HTML & CSS Mini Course](https://softuni.bg/trainings/2286/html-css-mini-course) | [Link](https://github.com/Dimitar-Peev/HTML-CSS-Mini-Course) | 
 
