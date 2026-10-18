@@ -43,6 +43,7 @@ I started my journey in the world of technology by signing up for SoftUni's free
 
 | Course        | Repository  | 
 | ------------- | ----------- | 
+| [Programming Basics with Python](#) | [Link](https://github.com/Dimitar-Peev/Programming-Basics-with-Python) | 
 | [PostgreSQL](https://softuni.bg/trainings/4974/postgresql-may-2026) | [Link](https://github.com/Dimitar-Peev/PostgreSQL-May-2026) |
 | [TypeScript ](https://softuni.bg/trainings/5211/typescript-february-2026) | [Link](https://github.com/Dimitar-Peev/TypeScript-February-2026) |
 | [Containers and Cloud](https://softuni.bg/trainings/5150/containers-and-cloud-february-2026) | [Link](https://github.com/Dimitar-Peev/Containers-and-Cloud) |
